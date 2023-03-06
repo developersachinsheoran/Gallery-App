@@ -11,3 +11,103 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Css for navbar */
+.navbar-icons{
+  margin-left:12%;
+  margin-right: 12%;
+  margin-top: 5px;
+}
+
+.navbar-brand{
+  font-family:Lobster;
+  font-weight: 400;
+  font-size:xx-large;
+  /* margin-right: 55px; */
+}
+
+.nav-link{
+  margin-left: 20px;
+}
+
+.first-btn{
+  margin-left: 25px;
+  width: 210px;
+  
+}
+
+/* css for main search section */
+
+.bg-image{
+  background-image: url(https://media.istockphoto.com/id/155351601/photo/hilly-meadow-at-night-with-full-moon-clouds-and-grass.jpg?b=1&s=170667a&w=0&k=20&c=uE-_uqCcfLDhNP8YjDN6AOWZY7-SDFWA2rIWbpa4Utc=);
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 1500px;
+  margin-bottom: 50px;
+}
+
+.main-heading{
+  color: white;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:40px;
+  font-weight: bold;
+  padding-top: 100px;
+}
+
+.sub-heading{
+  color:darkgrey
+}
+
+.second-searchbar{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.second-button{
+  background-color: #4CAF50;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 150px;
+}
+
+/* css for image details info */
+
+#leftbox {
+  float:left;
+}
+
+#middlebox {
+  float:left;
+}
+
+#rightbox {
+  float:right;
+}
+
+.userpic{
+  border-radius: 100%;
+}
+
+.owner{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 900;
+}
+
+.username{
+  font-size:12px;
+  font-weight:700;
+  color: darkgrey;
+  font-style: italic;
+}
+
+.likes{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  font-weight: bold;
+}
+
